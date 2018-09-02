@@ -15,6 +15,8 @@ Useful for some fundamental ideas of self driving cars.
 
 [Another example](http://blog.davidsingleton.org/nnrccar/)
 
+[An example using RaspPi, TensorFlow, and OpenCV](https://www.raspberrypi.org/magpi/self-driving-rc-car/)
+
 
 ### Software
 
@@ -28,3 +30,11 @@ Javascript alternative
 
 [RobotShop](https://www.robotshop.com/en/)
 Shop that sells robotics equipment
+
+[Adafruit Arduino parts](https://www.adafruit.com/category/17), they also have Raspberry Pi stuff and robot components at hobby level.
+
+[Sparkfun](https://www.sparkfun.com/) more electronic parts
+
+[Jameco](https://www.jameco.com/webapp/wcs/stores/servlet/StoreCatalogDisplay?storeId=10001&catalogId=10001&langId=-1) more electronic parts (less expensive)
+
+[RC Planet](https://www.rcplanet.com/radio-control/rc-cars-trucks/) remote control cars, sortable by scale, chassis kits available, parts.
