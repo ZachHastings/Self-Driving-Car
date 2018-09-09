@@ -1,0 +1,10 @@
+The main idea of this project is to create a self-driving model car, based on a remote control vehicle, that will utilize a neural net for the machine to learn how to react to signals, planned or incidental, on the road.
+
+After getting the hardware setup, we may want to download source code from projects that have already accomplished the rudimentary tasks of driving. Then we can test it out and modify it to accomplish the following incremental tasks:
+  1 - Drive forward, and stop at stop sign.
+  2 - Drive forward, turn on curve, and stop at stop sign.
+  3 - The above plus stop for car ahead, then continue once clear.
+  4 - The above plus stop for other obstruction in road.
+  5 - Stop at red light, continue on green.
+  6 - Read speed limit sign and adjust speed.
+  7 - Turn at intersection (with turn signal?)
