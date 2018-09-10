@@ -19,4 +19,4 @@ After getting the hardware setup, we may want to download source code from proje
   - Read speed limit sign, adjust speed accordingly.
   - Turn on headlights, drive with lights off.
   - Turn at intersection (possibly with turn signal).
-  
+  - Detect and avoid pedestrian(s).
