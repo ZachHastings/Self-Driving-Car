@@ -30,3 +30,6 @@ A distance sensor that is included in a lot of kits, but not this one. I'm not s
 [Camera](https://www.robotshop.com/en/raspberry-pi-camera-module-adjustable-focus-night-vision.html)
 Camera module. Uses default Pi Camera sensor/board. However, it includes a lense with focal adjustment, as well as the ability to capture IR. Includes 2 IR LEDs, this would potentially allow us to operate the car at night.
 This seemed like a decent module for the price, however I could be conviced to go with a different module if anyone has suggestions.
+
+
+I talked to my boss today, he woud like us to compile a list of parts and send them to him so he can purchase them on his card. I'll start working on a draft email to send him and I'll wait for the group's approval on the parts before sending. He is going out of town on Wednesday, so I'd like to catch him tomorrow. But once we're final on parts, I'll send him the list.
