@@ -1,4 +1,4 @@
-#Camera Streaming ideas/research
+# Camera Streaming ideas/research
 
 [How to stream video](https://raspberrypi.stackexchange.com/questions/23182/how-to-stream-video-from-raspberry-pi-camera-and-watch-it-live/29614)
 A few answers that could potentially help with setting up video streaming.
