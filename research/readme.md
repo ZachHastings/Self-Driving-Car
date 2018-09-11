@@ -38,3 +38,5 @@ Shop that sells robotics equipment
 [Jameco](https://www.jameco.com/webapp/wcs/stores/servlet/StoreCatalogDisplay?storeId=10001&catalogId=10001&langId=-1) more electronic parts (less expensive)
 
 [RC Planet](https://www.rcplanet.com/radio-control/rc-cars-trucks/) remote control cars, sortable by scale, chassis kits available, parts.
+
+[LED Traffic light file for 3D printing](https://www.thingiverse.com/thing:1341507)
