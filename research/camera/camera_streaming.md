@@ -11,3 +11,7 @@ A few answers that could potentially help with setting up video streaming.
 
 [Video demo](https://www.youtube.com/watch?v=KPjCLFWrRZo)
 A video using our camera module that includes night vision mode as well as a web interface for streaming.
+
+[Native camera programs for RaspPi (basic)](https://www.raspberrypi.org/documentation/raspbian/applications/camera.md)
+
+Another native program is for viewing videos: OMXPlayer. Must be launched from the command line.
