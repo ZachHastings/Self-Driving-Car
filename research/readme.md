@@ -27,7 +27,6 @@ Machine learning library
 Javascript alternative
 
 [Udacity Lane Detection] (https://github.com/hortovanyi/udacity-advanced-lane-finding-project)
-Udacity Lane Detection github repo
 
 ### Hardware
 
