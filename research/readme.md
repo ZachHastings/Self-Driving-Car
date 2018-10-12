@@ -26,7 +26,8 @@ Machine learning library
 [TensorFlow.js](https://js.tensorflow.org/)
 Javascript alternative
 
-[Udacity Lane Detection] (https://github.com/hortovanyi/udacity-advanced-lane-finding-project)
+[Udacity Lane Detection](https://github.com/hortovanyi/udacity-advanced-lane-finding-project)
+Udacity Lane Detection Github repo
 
 ### Hardware
 
