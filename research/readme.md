@@ -17,6 +17,9 @@ Useful for some fundamental ideas of self driving cars.
 
 [An example using RaspPi, TensorFlow, and OpenCV](https://www.raspberrypi.org/magpi/self-driving-rc-car/)
 
+[A tutorial on the ultrasonic sensor and RasPi](https://electrosome.com/hc-sr04-ultrasonic-sensor-raspberry-pi/)
+
+
 
 ### Software
 
