@@ -48,3 +48,6 @@ Shop that sells robotics equipment
 [RC Planet](https://www.rcplanet.com/radio-control/rc-cars-trucks/) remote control cars, sortable by scale, chassis kits available, parts.
 
 [LED Traffic light file for 3D printing](https://www.thingiverse.com/thing:1341507)
+
+[Stopsign for 3D printing](https://www.thingiverse.com/thing:2298243)
+
