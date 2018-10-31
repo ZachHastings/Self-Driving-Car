@@ -19,7 +19,7 @@ Useful for some fundamental ideas of self driving cars.
 
 [A tutorial on the ultrasonic sensor and RasPi](https://electrosome.com/hc-sr04-ultrasonic-sensor-raspberry-pi/)
 
-[Repository for PID control in Python](https://github.com/ivmech/ivPID)
+[Repository for PID control in Python](https://github.com/ivmech/ivPID) [Documentation for the library](http://ivmech.github.io/ivPID/)
 
 
 
